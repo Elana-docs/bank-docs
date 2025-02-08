@@ -1,0 +1,8 @@
+{
+  "label": "Работа с приложением",
+  "position": 70,
+  "link": {
+    "type": "doc",
+    "id": "settings/app-install"
+  }
+}

@@ -1,0 +1,40 @@
+.features {
+  display: flex;
+  align-items: center;
+  padding: 2rem 0;
+  width: 100%;
+}
+
+.featureCol {
+  display: flex;
+  justify-content: center;
+}
+
+.featureLink {
+  text-decoration: none;
+  color: inherit;
+  display: block;
+  width: 100%;
+}
+
+.featureCard {
+  width: 100%;
+  max-width: 320px; /* Фиксированная ширина карточки */
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.featureCard:hover {
+  transform: scale(1.05);
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.featureSvg {
+  height: 150px;
+  width: 150px;
+  margin-bottom: 1rem;
+}
+
+.featureTitle {
+  font-weight: bold; /* Жирный шрифт для заголовков */
+  margin-bottom: 1rem;
+}

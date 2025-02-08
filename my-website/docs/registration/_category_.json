@@ -1,0 +1,8 @@
+{
+  "label": "Регистрация в Nova Bank",
+  "position": 60,
+  "link": {
+    "type": "doc",
+    "id": "registration/sign-up"
+  }
+}

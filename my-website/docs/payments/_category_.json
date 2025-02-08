@@ -1,0 +1,8 @@
+{
+  "label": "Платежи и переводы",
+  "position": 80,
+  "link": {
+    "type": "doc",
+    "id": "payments/balance"
+  }
+}
